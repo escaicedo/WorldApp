@@ -6,7 +6,7 @@ namespace WorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello TC Build!");
+            Console.WriteLine("Hello TC Build Test!");
         }
     }
 }
